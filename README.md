@@ -4,13 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
-- 🔭 I’ve worked on Developing a **Zombie Game**
-
-- 👯 I’ve Worked on Developing a **Sudoku application**
-
-- 👯 I’ve Worked on Developing a **Library application**
-
-- And more 
+I've built diverse applications, including a Zombie Game, a Sudoku solver, and a Library management system, showcasing my blend of creativity and technical prowess in software development. For more on my varied projects, explore my repositories.
 
 - 📫 How to reach me **nebiljk@kth.se**
 

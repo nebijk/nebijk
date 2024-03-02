@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
-I've built diverse applications, including a Zombie Game, a Sudoku solver, and a Library management system, showcasing my blend of creativity and technical prowess in software development. For more on my varied projects, explore my repositories.
+👨‍💻 | Projects: From a gripping Zombie Game to a clever Sudoku solver, and a streamlined Library management system, I enjoy creating applications that blend fun with functionality. Dive into my repositories for a peek at my work!
 
 - 📫 How to reach me **nebiljk@kth.se**
 

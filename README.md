@@ -6,7 +6,7 @@
 
 👨‍💻 | Projects: From a gripping Zombie Game to a clever Sudoku solver, and a streamlined Library management system, I enjoy creating applications that blend fun with functionality. Dive into my repositories for a peek at my work!
 
-- 📫 How to reach me **nebiljk@kth.se**
+- 📫 You can reach me at  **nebiljk@kth.se**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

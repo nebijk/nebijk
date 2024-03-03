@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
- From a gripping Zombie Game to a clever Sudoku solver, and a streamlined Library management system, I enjoy creating applications that blend fun with functionality. Dive into my repositories for a peek at my work!
+ From the real-time match tracking of 'MatchLocate Live' to the detailed forecasts in my Weather app, followed by a gripping Zombie Game, a clever Sudoku solver, and a streamlined Library management system, I delight in crafting applications that merge entertainment with practicality. Take a look at my repositories for a tour of my innovative projects!
 
 - 📫 You can reach me at  **nebiljk@kth.se**
 

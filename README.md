@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
- From the real-time match tracking of 'MatchLocate Live' to the detailed forecasts in my Weather app, followed by a gripping Zombie Game, a clever Sudoku solver, and a streamlined Library management system, I delight in crafting applications that merge entertainment with practicality. Take a look at my repositories for a tour of my innovative projects!
+I have experience in developing a variety of innovative applications, ranging from live tracking systems and weather forecasting to interactive games and practical management solutions. Explore my repositories to see the breadth of my projects
 
 - 📫 You can reach me at  **nebiljk@kth.se**
 
